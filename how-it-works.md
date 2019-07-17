@@ -4,7 +4,7 @@ When a user performs a core action on TruStory, such as Writing an Argument or A
 
 ## Rewards
 
-The interest payment earned (i.e. "rewards) is based on the stake **amount** and **period**. Currently, users stake a default amount and for a default period*, as per below:
+The interest payment earned (i.e. "rewards) is based on the stake **amount** and **period**. Currently, users stake a default amount and for a default period* as per below:
 
 **Write an Argument**
 - Stake required: 50 TruStake
