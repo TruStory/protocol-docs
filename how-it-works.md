@@ -4,7 +4,7 @@ When a user performs a core action on TruStory, such as Writing an Argument or A
 
 ## Rewards
 
-The interest payment earned (i.e. "rewards) is based on the stake **amount** and **period**. Currently, users stake a default amount and for a default period, as per below:
+The interest payment earned (i.e. "rewards) is based on the stake **amount** and **period**. Currently, users stake a default amount and for a default period*, as per below:
 
 **Write an Argument**
 - Stake required: 50 TruStake
@@ -15,25 +15,26 @@ The interest payment earned (i.e. "rewards) is based on the stake **amount** and
 **Agree an Argument**
 - Stake required: 10 TruStake
 - Period: 7 days
-- Interest earned: 100 uTruStake (i.e. 0.1 TruStake) *(split equally between Argument creator and Agree giver)*
+- Interest earned: 100 uTruStake (i.e. 0.1 TruStake)** 
 
-_NOTE: In the future, we may allow users to pick stake amounts and period._
+_* In the future, we may allow users to pick stake amounts and period._
+_** Split equally between Argument creator and Agree giver._
 
-Users can also earn rewards by removing low-quality arguments. This is done by marking arguments as Not Helpful. Only users with 50+ Earned TruStake can mark arguments as Not Helpful.
+Users can also earn rewards by removing low-quality arguments. This is done by marking arguments as **Not Helpful**. Only users with 50+ Earned TruStake can mark arguments as Not Helpful.
 
-If an Argument receives 5 or more Not Helpful votes, users who marked the Argument as Not Helpful earn rewards.
+If an Argument receives 5 or more Not Helpful votes, the argument writer and any users who Agreed with that argument have their TruStake slashed. Users who marked the Argument as Not Helpful earn a portion of this slashed TruStake.
 
 **Mark Argument as Not Helpful**
  - Stake required: None
  - Period: None
- - Reward earned: 25% of all stakes on the argument, split among all Not Helpful voters 
+ - Reward earned: 25% of slashed stakes, split among all Not Helpful voters 
 
 ## Min balance required
 
 All users are required to have min balance of 50 TruStake to stake. 
 
 ## Staking limits
-Users have limits on how much they can stake on the platform at once (i.e. Pending stake balanace). Users start off with a limit of 300 pending TruStake.
+Users have limits on how much they can have staked on the platform at once (i.e. Pending stake balanace). Users start off with a limit of 300 pending TruStake.
 
 As users earn more TruStake on the platform, their staking limits increase, as per below:
 
