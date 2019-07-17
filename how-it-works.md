@@ -4,7 +4,7 @@ When a user performs a core action on TruStory, such as Writing an Argument or A
 
 ## Rewards
 
-The interest payment earned (i.e. "rewards) is based on the stake **amount** and **period**. Currently, users stake a default amount and for a default period* as per below:
+The interest payment earned (i.e. "rewards) is based on the stake **amount** and **period**. Currently, users stake a default amount and for a default period[1] as per below:
 
 **Write an Argument**
 - Stake required: 50 TruStake
@@ -15,7 +15,7 @@ The interest payment earned (i.e. "rewards) is based on the stake **amount** and
 **Agree an Argument**
 - Stake required: 10 TruStake
 - Period: 7 days
-- Interest earned: 100 uTruStake (i.e. 0.1 TruStake)** 
+- Interest earned: 100 uTruStake (i.e. 0.1 TruStake)[2] 
 
 Users can also earn rewards by removing low-quality arguments. This is done by marking arguments as **Not Helpful**. Only users with 50+ Earned TruStake can mark arguments as Not Helpful.
 
@@ -26,8 +26,8 @@ If an Argument receives 5 or more Not Helpful votes, the argument writer and any
  - Period: None
  - Reward earned: 25% of slashed stakes, split among all Not Helpful voters 
  
-* In the future, we may allow users to pick stake amounts and period.
-** Split equally between Argument creator and Agree giver.
+[1] In the future, we may allow users to pick stake amounts and period.
+[2] Split equally between Argument creator and Agree giver.
 
 ## Min balance required
 
