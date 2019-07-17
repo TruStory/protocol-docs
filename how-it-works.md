@@ -18,6 +18,7 @@ The interest payment earned (i.e. "rewards) is based on the stake **amount** and
 - Interest earned: 100 uTruStake (i.e. 0.1 TruStake)** 
 
 _* In the future, we may allow users to pick stake amounts and period._
+
 _** Split equally between Argument creator and Agree giver._
 
 Users can also earn rewards by removing low-quality arguments. This is done by marking arguments as **Not Helpful**. Only users with 50+ Earned TruStake can mark arguments as Not Helpful.
