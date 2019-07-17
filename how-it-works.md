@@ -17,10 +17,6 @@ The interest payment earned (i.e. "rewards) is based on the stake **amount** and
 - Period: 7 days
 - Interest earned: 100 uTruStake (i.e. 0.1 TruStake)** 
 
-_* In the future, we may allow users to pick stake amounts and period._
-
-_** Split equally between Argument creator and Agree giver._
-
 Users can also earn rewards by removing low-quality arguments. This is done by marking arguments as **Not Helpful**. Only users with 50+ Earned TruStake can mark arguments as Not Helpful.
 
 If an Argument receives 5 or more Not Helpful votes, the argument writer and any users who Agreed with that argument have their TruStake slashed. Users who marked the Argument as Not Helpful earn a portion of this slashed TruStake.
@@ -29,6 +25,9 @@ If an Argument receives 5 or more Not Helpful votes, the argument writer and any
  - Stake required: None
  - Period: None
  - Reward earned: 25% of slashed stakes, split among all Not Helpful voters 
+ 
+_* In the future, we may allow users to pick stake amounts and period._ 
+_** Split equally between Argument creator and Agree giver._
 
 ## Min balance required
 
