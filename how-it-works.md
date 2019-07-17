@@ -15,7 +15,7 @@ The interest payment earned (i.e. "rewards) is based on the stake **amount** and
 **Agree an Argument**
 - Stake required: 10 TruStake
 - Period: 7 days
-- Interest earned: 100 uTruStake *(split equally between Argument creator and Agree giver)*
+- Interest earned: 100 uTruStake (i.e. 0.1 TruStake) *(split equally between Argument creator and Agree giver)*
 
 _NOTE: In the future, we may allow users to pick stake amounts and period._
 
