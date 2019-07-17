@@ -26,7 +26,7 @@ If an Argument receives 5 or more Not Helpful votes, the argument writer and any
  - Period: None
  - Reward earned: 25% of slashed stakes, split among all Not Helpful voters 
  
-[1] In the future, we may allow users to pick stake amounts and period.
+[1] In the future, we may allow users to pick stake amounts and period.  
 [2] Split equally between Argument creator and Agree giver.
 
 ## Min balance required
