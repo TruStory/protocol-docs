@@ -15,7 +15,7 @@ The interest payment earned (i.e. "rewards") is based on the stake **amount** an
 **Agree an Argument**
 - Stake required: 30 TRU
 - Period: 7 days
-- Interest earned: 0.6 TruStake[2]
+- Interest earned: 0.6 TRU[2]
 
 Users can also earn rewards by removing low-quality arguments. This is done by marking arguments as **Not Helpful**. Only users with 10+ Earned TruStake can mark arguments as Not Helpful.
 
@@ -31,17 +31,17 @@ If an Argument receives 5 or more Not Helpful votes, the argument writer and any
 
 ## Min balance required
 
-All users are required to have min balance of 50 TruStake to stake. 
+All users are required to have min balance of 50 TRU to stake. 
 
 ## Staking limits
-Users have limits on how much they can have staked on the platform at once (i.e. Pending stake balanace). Users start off with a limit of 500 pending TruStake.
+Users have limits on how much they can have staked on the platform at once (i.e. Pending stake balanace). Users start off with a limit of 500 pending TRU.
 
-As users earn more TruStake on the platform, their staking limits increase, as per below:
+As users earn more TRU on the platform, their staking limits increase, as per below:
 
-- 10 total Earned TruStake: 1000 pending TruStake limit
-- 20 total Earned TruStake: 1500 pending TruStake limit
-- 30 total Earned TruStake: 2000 pending TruStake limit
-- 40 total Earned TruStake: 2500 pending TruStake limit
-- 50 total Earned TruStake: 3000 pending TruStake limit
+- 10 total Earned TRU: 1000 pending TRU limit
+- 20 total Earned TRU: 1500 pending TRU limit
+- 30 total Earned TRU: 2000 pending TRU limit
+- 40 total Earned TRU: 2500 pending TRU limit
+- 50 total Earned TRU: 3000 pending TRU limit
 
 ... And so on.
